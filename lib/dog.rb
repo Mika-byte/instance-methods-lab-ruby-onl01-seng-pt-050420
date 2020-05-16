@@ -2,14 +2,6 @@ class Dog
 end
  
 fido = Dog.new
-fido.methods
 
-class Dog
-  def bark
-    puts "Woof"
-  end 
-end
-fido.bark 
-bark
-
-
+def bark
+  puts "woof"
