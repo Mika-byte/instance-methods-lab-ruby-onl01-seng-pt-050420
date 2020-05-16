@@ -1,5 +1,4 @@
 class Person
-end
 
 
 class Person
@@ -7,4 +6,5 @@ class Person
     words = "Hello World!"
     puts #{words}
   end 
+end
 end
